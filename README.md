@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Varad 👋
 
-<!--
-**Varad1248/Varad1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎵 Drummer | 💻 Developer | 🚀 Builder
 
-Here are some ideas to get you started:
+I'm passionate about technology, music, and creating things from scratch. I enjoy working on software projects, exploring entrepreneurship, and solving challenging problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+👨‍💻 Tech Stack
+
+Languages
+- Java
+- Python
+- JavaScript
+- SQL
+- C++
+
+Technologies & Tools
+- Git & GitHub
+- Docker
+- REST APIs
+- Linux
+- Kafka (Learning)
+- Spring Boot (Learning)
+
+Databases
+- MySQL
+- PostgreSQL
+
+
+
+<br>
+
+🎵 Beyond Code
+
+When I'm not coding, you'll probably find me:
+
+- 🥁 Playing drums
+
+- 🎸 Exploring music production
+
+- 📚 Reading about psychology, business, and technology
+
+- 🌱 Experimenting with new business ideas
+
+
+<br>
+
+
+## 📫 Connect With Me
+
+- Email: varaddonthula126@gmail.com
+- LinkedIn: www.linkedin.com/in/varaddonthula126/
+
+---
+
+*"Building products, creating music, and continuously learning."*
