@@ -50,6 +50,7 @@ When I'm not coding, you'll probably find me:
 ## 📫 Connect With Me
 
 - Email: varaddonthula126@gmail.com
+- Phone: 6366891888
 - LinkedIn: www.linkedin.com/in/varaddonthula126/
 
 ---
