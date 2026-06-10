@@ -52,6 +52,7 @@ When I'm not coding, you'll probably find me:
 - Email: varaddonthula126@gmail.com
 - Phone: 6366891888
 - LinkedIn: www.linkedin.com/in/varaddonthula126/
+- Resume: https://drive.google.com/file/d/1arTyecUVD48NUZNALFCfclsgUgQAoRei/view?usp=drive_link
 
 ---
 
